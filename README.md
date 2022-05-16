@@ -1,2 +1,2 @@
 # MLM-script-demo-
-This is an MLM script built in PHP
+This is an MLM script built in PHP-Codeigniter
